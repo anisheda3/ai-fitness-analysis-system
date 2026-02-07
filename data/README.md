@@ -1,2 +1,4 @@
 This directory contains datasets, trained models, and media files used during development.
-They are not included in the repository due to size and licensing considerations.
+
+These files are intentionally excluded from the repository to avoid data leakage,
+licensing issues, and unnecessary repository bloat.

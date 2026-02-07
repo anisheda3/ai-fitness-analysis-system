@@ -60,3 +60,9 @@ ai-fitness-analysis-system/
 ## Notes
 This repository intentionally excludes trained models, datasets, and media files. These components are documented but not published to maintain clean version control and avoid data leakage.
 
+## Planned Modularization
+The current implementation centralizes core logic to maintain clarity.
+Future iterations will separate computer vision, NLP, and model components
+into independent modules to support scalability and experimentation.
+
+
