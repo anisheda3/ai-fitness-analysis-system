@@ -1,0 +1,34 @@
+# Visualization
+matplotlib
+seaborn
+plotly
+kaleido
+
+# Deep learning
+torch
+torchvision
+torchaudio
+tensorflow
+tensorboard
+tf-keras
+transformers
+datasets
+sentencepiece
+accelerate
+
+# Advanced ML
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+optuna
+
+# NLP utilities
+nltk
+textblob
+
+# Utilities
+requests
+huggingface_hub
+protobuf
+geopy

@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+joblib
+
+# Computer vision
+opencv-python
+mediapipe
+
+# NLP / Semantic search
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+
+# Application layer
+streamlit
+gradio
